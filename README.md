@@ -1,0 +1,1 @@
+Script to assist in finding references from a text in order to make sure the found references appear in the bibliography section. Comparison is to be done by hand with the generated file. Read the code before usage.
